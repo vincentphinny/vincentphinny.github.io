@@ -10,8 +10,8 @@ const cover = document.querySelector('#cover');
 
 //song titles
 
-const songs = ['ARIA MATH EDM','ennadi inst mix', 'ennadi vocal mix', 'random mix','sapth mix',
-                'theera mix 2','theera mix 3','theera X mudhal','Theera','we sink mix'];
+const songs = ['ARIA MATH EDM', 'Theera','ennadi inst mix', 'ennadi vocal mix', 'random mix','sapth mix', 
+               'theera X mudhal','theera mix 2','theera mix 3','we sink mix'];
 
 
 //keep track
